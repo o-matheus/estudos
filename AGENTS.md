@@ -5,8 +5,8 @@ Este repositório centraliza os estudos do Matheus: cursos livres, faculdade de 
 ## Organização
 
 - Siga a estrutura e as convenções do [README.md](README.md). Leia o README da seção, do curso ou da disciplina antes de alterar algo.
-- Cursos: `cursos/<curso>/`. Faculdade: `faculdade/periodo-NN/<disciplina>/` (numeração sequencial; não deduza semestres oficiais a partir das datas). Temas avulsos: `topicos/<tema>/`. Projetos: só uma ficha em `projetos/`, pois as notas detalhadas ficam no repositório do projeto.
-- Se a pasta tiver um `AGENTS.md` próprio (ex.: `cursos/residencia-tic-unilab/`, `cursos/curso-dev-programacao-web/`), siga também as regras dele.
+- Cursos: `cursos/<curso>/`. Faculdade: `faculdade/periodo-NN/<disciplina>/` (numeração sequencial; não deduza semestres oficiais a partir das datas). Concursos: `concurso/<ano-da-prova>/<concurso>/` (conteúdo base pesquisado/gerado em `conteudo-base/` e anotações do estudante por dia em `anotacoes/`). Temas avulsos: `topicos/<tema>/`. Projetos: só uma ficha em `projetos/`, pois as notas detalhadas ficam no repositório do projeto.
+- Se a pasta tiver um `AGENTS.md` próprio (ex.: `cursos/residencia-tic-unilab/`, `cursos/curso-dev-programacao-web/`, `concurso/2027/prefeitura-boa-viagem/`), siga também as regras dele.
 - Ao adicionar, mover ou concluir conteúdo, atualize os índices afetados com links relativos e confira se os links funcionam.
 
 ## Estudo e fontes
