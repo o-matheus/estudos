@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# Obsidian (se usar)
+.obsidian/workspace*.json
+.obsidian/cache
+.trash/
+
+# VS Code
+.vscode/
+
+# Arquivos grandes/privados (PDFs de aula, provas etc.) — remova a linha se quiser versionar
+*.pdf
